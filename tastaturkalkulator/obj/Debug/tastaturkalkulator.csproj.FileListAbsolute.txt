@@ -1,0 +1,9 @@
+d:\horu3012\documents\visual studio 2015\Projects\tastaturkalkulator\tastaturkalkulator\bin\Debug\tastaturkalkulator.exe.config
+d:\horu3012\documents\visual studio 2015\Projects\tastaturkalkulator\tastaturkalkulator\bin\Debug\tastaturkalkulator.exe
+d:\horu3012\documents\visual studio 2015\Projects\tastaturkalkulator\tastaturkalkulator\bin\Debug\tastaturkalkulator.pdb
+d:\horu3012\documents\visual studio 2015\Projects\tastaturkalkulator\tastaturkalkulator\obj\Debug\tastaturkalkulator.csprojResolveAssemblyReference.cache
+d:\horu3012\documents\visual studio 2015\Projects\tastaturkalkulator\tastaturkalkulator\obj\Debug\tastaturkalkulator.Form1.resources
+d:\horu3012\documents\visual studio 2015\Projects\tastaturkalkulator\tastaturkalkulator\obj\Debug\tastaturkalkulator.Properties.Resources.resources
+d:\horu3012\documents\visual studio 2015\Projects\tastaturkalkulator\tastaturkalkulator\obj\Debug\tastaturkalkulator.csproj.GenerateResource.Cache
+d:\horu3012\documents\visual studio 2015\Projects\tastaturkalkulator\tastaturkalkulator\obj\Debug\tastaturkalkulator.exe
+d:\horu3012\documents\visual studio 2015\Projects\tastaturkalkulator\tastaturkalkulator\obj\Debug\tastaturkalkulator.pdb
